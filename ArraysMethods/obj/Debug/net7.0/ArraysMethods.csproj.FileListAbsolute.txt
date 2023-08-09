@@ -1,0 +1,15 @@
+C:\CSharp\ArraysMethods\ArraysMethods\bin\Debug\net7.0\ArraysMethods.exe
+C:\CSharp\ArraysMethods\ArraysMethods\bin\Debug\net7.0\ArraysMethods.deps.json
+C:\CSharp\ArraysMethods\ArraysMethods\bin\Debug\net7.0\ArraysMethods.runtimeconfig.json
+C:\CSharp\ArraysMethods\ArraysMethods\bin\Debug\net7.0\ArraysMethods.dll
+C:\CSharp\ArraysMethods\ArraysMethods\bin\Debug\net7.0\ArraysMethods.pdb
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.csproj.AssemblyReference.cache
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.AssemblyInfoInputs.cache
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.AssemblyInfo.cs
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.csproj.CoreCompileInputs.cache
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.dll
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\refint\ArraysMethods.dll
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.pdb
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ArraysMethods.genruntimeconfig.cache
+C:\CSharp\ArraysMethods\ArraysMethods\obj\Debug\net7.0\ref\ArraysMethods.dll
