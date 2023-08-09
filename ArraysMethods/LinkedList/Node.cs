@@ -22,5 +22,10 @@
             }
             return count;
         }
+
+        public void DisplayNode()
+        {
+            Console.WriteLine(Data);
+        }
     }
 }

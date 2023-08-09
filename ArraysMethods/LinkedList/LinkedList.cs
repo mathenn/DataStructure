@@ -16,11 +16,24 @@ namespace App.LinkedList
             First = firstNode;
         }
 
+        // Delete head method
         public Node DeleteFirst()
         {
             Node temp = First;
             First = First.Next;
             return temp;
+        }
+
+        public void DisplayList()
+        {
+            Console.WriteLine("Iterating thru list...");
+            Node current = First;
+            while (current != null)
+            {
+                current.DisplayNode();
+                current = current.Next;
+            }
+
         }
 
         
