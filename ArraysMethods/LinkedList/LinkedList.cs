@@ -1,8 +1,8 @@
 ﻿using System.Xml;
 
-namespace ArraysMethods.LinkedList
+namespace App.LinkedList
 {
-    class LinkedList
+    public class LinkedList
     {
         public Node First { get; set; }
 
@@ -10,10 +10,17 @@ namespace ArraysMethods.LinkedList
         // Insert of the head
         public void InsertFirst(int data)
         {
-            Node firstNode = new Node();
+            Node firstNode = new Node(0);
             firstNode.Data = data;
             firstNode.Next = First;
             First = firstNode;
+        }
+
+        public Node DeleteFirst()
+        {
+            Node temp = First;
+            First = First.Next;
+            return temp;
         }
 
         
